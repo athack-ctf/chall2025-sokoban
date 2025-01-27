@@ -1,10 +1,17 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+Roger is supposed to work on his quantum chromodynamics assignment for tomorrow... but instead he decided to solve Sokoban games.
+What a waste of time, right? I hope his supervisor never finds out.
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
 
----
-Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
+NOTE:
+- `@` player
+- `$` box
+- `.` goal
+- `#` wall
+- `*` box on goal
+- `+` player on goal
+
+For each puzzle, the answer is expected as a sequence of move, such as `urRlddDlLuuuL` for instance.
+u, d, l, r = up, down, left, right
+UPPERCASE = push a box, lowercase = move
+
+Solutions are not unique.

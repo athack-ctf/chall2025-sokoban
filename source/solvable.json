@@ -1,0 +1,1119 @@
+{
+    "2": {
+        "layout": [
+            "####",
+            "#  #",
+            "# $#####",
+            "#      #",
+            "#.$.$. #",
+            "#  # @ #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 898.1132507324219,
+        "result": "lUlulldRRRlulluurDDldRurRddrruuLLLLulD"
+    },
+    "3": {
+        "layout": [
+            "########",
+            "#   #  #",
+            "# @   .##",
+            "## ###. #",
+            " #$$ #  #",
+            " #      #",
+            " ########"
+        ],
+        "method": "astar",
+        "time": 151.9601345062256,
+        "result": "rrrrdddllllUUddrrrruuulllulldRRRRurDDrddllluLdlUUddrrrrruululllulldRRRRllldddrrrrU"
+    },
+    "4": {
+        "layout": [
+            "    ####",
+            "#####  #",
+            "#   #  #",
+            "# $ @  #",
+            "## ###.##",
+            " #$$ #. #",
+            " #    . #",
+            " #####  #",
+            "     ####"
+        ],
+        "method": "astar",
+        "time": 2223.5727310180664,
+        "result": "lulldRRRRurDDDrddlUllllUUddrruLdlUdrrrrUUUluurDDDDrdLuuulllulldRRRRurDDDrddlULLullUdrrdrrUUUluurDDDulllulldRRRRurDlllldddRRR"
+    },
+    "5": {
+        "layout": [
+            "   #####",
+            "####   #",
+            "#  $   #",
+            "#    $###",
+            "#  #$ ..#",
+            "#### @ .#",
+            "   ######"
+        ],
+        "method": "astar",
+        "time": 2979.5584678649902,
+        "result": "uUluurrdLulDLdlluRRRurrdLdLLuRdrddlUruLuurDDldRuullllddrURlluRRRurDDDRllUluRurDDldRldRR"
+    },
+    "6": {
+        "layout": [
+            " ########",
+            "## ...  #",
+            "#   $$$ #",
+            "#   #@ ##",
+            "########"
+        ],
+        "method": "astar",
+        "time": 30.93695640563965,
+        "result": "rUruLLrddlULLdlluRdrU"
+    },
+    "7": {
+        "layout": [
+            "#####",
+            "#   ###",
+            "# # $ #",
+            "# ....#",
+            "###$$$#",
+            "  #   #",
+            "  # @ #",
+            "  #####"
+        ],
+        "method": "astar",
+        "time": 2327.669143676758,
+        "result": "ulUUrDurDulllluurrDullddrRdrruuLDllluurrDrdLdddrrUUdLUddlUU"
+    },
+    "8": {
+        "layout": [
+            "#########",
+            "#       #",
+            "# ##### #",
+            "# #. .# #",
+            "#   $ # #",
+            "# #.$.# #",
+            "# ##$$# #",
+            "#  #  @ #",
+            "#########"
+        ],
+        "method": "astar",
+        "time": 1913.179636001587,
+        "result": "ruuuuuulllllldddrrurrddLUruLdllluuurrrrrrddddddlllUUddrrruuuuuulllllldddrrRdrUdlddrU"
+    },
+    "13": {
+        "layout": [
+            "#######",
+            "#     #",
+            "#  .$.##",
+            "#  $#$ #",
+            "###.$. #",
+            "  # @  #",
+            "  ######"
+        ],
+        "method": "astar",
+        "time": 1524.665355682373,
+        "result": "luUluurDurrdLLrrDrddlUUddlluRlUlluurrDDlluR"
+    },
+    "21": {
+        "layout": [
+            "#########",
+            "#  ...  #",
+            "#  # #  #",
+            "# $$@$  #",
+            "#  ###  #",
+            "#### ####"
+        ],
+        "method": "astar",
+        "time": 2592.5934314727783,
+        "result": "RluulldlddrURRuurrdrddlUUruLLLddRluurrdrddlUUruLddllllluurRllddrUluR"
+    },
+    "22": {
+        "layout": [
+            "#######",
+            "#   # #",
+            "# $ * #",
+            "##* . #",
+            "# *  ##",
+            "# @   #",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 2146.874189376831,
+        "result": "ruuuulldRurDDrddlUdlluRURlddrruLuuulD"
+    },
+    "57": {
+        "layout": [
+            "#########",
+            "#      .#",
+            "# ### # #",
+            "# ##  # #",
+            "# # @ # #",
+            "# #$*$# #",
+            "#   .*  #",
+            "#########"
+        ],
+        "method": "astar",
+        "time": 1848.2425212860107,
+        "result": "uruurrdddddlLUdrruuuuulllllldddddrrRUrUUUdddldllluuuuurrrRRlddlDlDururuulllldddddrR"
+    },
+    "152": {
+        "layout": [
+            "######",
+            "#    #",
+            "#$$$ #",
+            "#....#",
+            "# $$.#",
+            "#  @ #",
+            "######"
+        ],
+        "method": "astar",
+        "time": 45.65739631652832,
+        "result": "lURuruulDullDRRurD"
+    },
+    "153": {
+        "layout": [
+            "######",
+            "# @  #",
+            "# ##$###",
+            "#  . . #",
+            "### $  #",
+            "  ###  #",
+            "    ####"
+        ],
+        "method": "astar",
+        "time": 41.550397872924805,
+        "result": "lddrrdRullluurrrDDrrddlUruLLLdRurrddlUluuulllddR"
+    },
+    "154": {
+        "layout": [
+            "#####",
+            "# @ #",
+            "# # ####",
+            "# ...  #",
+            "## $$$ #",
+            " ###   #",
+            "   #####"
+        ],
+        "method": "astar",
+        "time": 212.080717086792,
+        "result": "rddrrrddllUdrruulLddrUluLuullddRdRRuLdrdrruLruLLrddlU"
+    },
+    "159": {
+        "layout": [
+            " ######",
+            " #    #",
+            " # ## #",
+            "## .$.#",
+            "#  $@$##",
+            "# #.$. #",
+            "# # ## #",
+            "#      #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 1003.2823085784912,
+        "result": "LdddrrruulUlldRlddlluuuRurDrrULdlluuurrrD"
+    },
+    "160": {
+        "layout": [
+            "  ####",
+            " ##  #",
+            "##   ##",
+            "# .$. #",
+            "# #$# #",
+            "#  @  #",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 27.810335159301758,
+        "result": "lluurRllddrrUUluRdddrruuLLuurD"
+    },
+    "161": {
+        "layout": [
+            " ####",
+            " #  ##",
+            "## $ #",
+            "# .*.##",
+            "# #$  #",
+            "#  @  #",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 209.93924140930176,
+        "result": "ruuuLrdddllluurRurDlllddrrUdlluurRuulDrdddrruLdlU"
+    },
+    "162": {
+        "layout": [
+            "#########",
+            "#   ... #",
+            "#   ### #",
+            "### $   #",
+            "#  $# # #",
+            "# $ # @ #",
+            "#   #####",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 2825.770378112793,
+        "result": "ruuuullllddDllddrrUUUUdRRddrruuLLLrrruulllLdlluRRRRlldDDllddrrUUUUluRRldddlldRdrUUUUluR"
+    },
+    "164": {
+        "layout": [
+            "  #####",
+            "  #  .##",
+            "###.$. #",
+            "#  $$# #",
+            "#   @  #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 445.1794624328613,
+        "result": "rruulLrrddllULdrrruululDulDrrrddllUUluRdddlUdlluRRdrrruullulDrrrddllULuRddllluRdrU"
+    },
+    "170": {
+        "layout": [
+            "   #####",
+            "   #   #",
+            "####$  #",
+            "#   $ ##",
+            "# # #  #",
+            "# @ . .#",
+            "########"
+        ],
+        "method": "astar",
+        "time": 121.40941619873047,
+        "result": "rrruuLLrruulDrdddlluuRlddrruUddlllluuRRRuurrdLulDrDDrdLLLuuRurDDullddrRuullllddRR"
+    },
+    "174": {
+        "layout": [
+            "######",
+            "#.  .#",
+            "# $$ #",
+            "#.$@##",
+            "# $$ #",
+            "#.  .#",
+            "######"
+        ],
+        "method": "astar",
+        "time": 102.21505165100098,
+        "result": "DLdRuuULuRdlDlUdDurrddlUruL"
+    },
+    "180": {
+        "layout": [
+            " #####",
+            " #   #",
+            "## # ##",
+            "# $ $ #",
+            "#.. ..#",
+            "# $#$ #",
+            "## @ ##",
+            " #####"
+        ],
+        "method": "astar",
+        "time": 1013.3655071258545,
+        "result": "lUluuRuurrdDLdRlLddrrUdlluuUrruullDD"
+    },
+    "182": {
+        "layout": [
+            "#####",
+            "#   #",
+            "# $ #",
+            "#@$$##",
+            "##$..#",
+            " # ..#",
+            " #   #",
+            " #####"
+        ],
+        "method": "astar",
+        "time": 1088.559865951538,
+        "result": "uurrdDDrddlluRuuuulldRurDDulldRDRddlUUUluurDrDDlUluRurDD"
+    },
+    "184": {
+        "layout": [
+            "  ####",
+            "###  ####",
+            "#     $ #",
+            "# # $#$ #",
+            "# ...#@ #",
+            "#########"
+        ],
+        "method": "astar",
+        "time": 123.33345413208008,
+        "result": "ruuLLLulDllddrrrUdllluurrDrdLuuurDDurrrddlUruLLLulDD"
+    },
+    "188": {
+        "layout": [
+            "   ####",
+            "   # .#",
+            " ###$.##",
+            "##  $..#",
+            "#   $$@#",
+            "#   #  #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 897.0086574554443,
+        "result": "ulLruulDrdrddlULLdlluRRRRdrUlUUlDrdLLdlluRuRRdrUlllddrUluRR"
+    },
+    "190": {
+        "layout": [
+            "  ####",
+            "  #  #",
+            "### $##",
+            "#   $ #",
+            "# #$# ##",
+            "#     .#",
+            "####@..#",
+            "   #####"
+        ],
+        "method": "astar",
+        "time": 370.037317276001,
+        "result": "ullluurrDullddrRRdrruLuuLLddRluurrdDuulluurDldddrdRuuuLulDrrddlllluuRRDullddrRRRuuLulDDullddrRRluurrdD"
+    },
+    "195": {
+        "layout": [
+            "  #####",
+            "  #   #",
+            "### #$##",
+            "#  $ $ #",
+            "#... @ #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 148.69070053100586,
+        "result": "luLdrrruLdlluuurrDDLdlUdlluRdrrurrdLLLLuRdrruuullDDRdLuuurrdDrdLL"
+    },
+    "212": {
+        "layout": [
+            "######",
+            "#  $.#",
+            "# #$.###",
+            "#  $.  #",
+            "# #$.  #",
+            "#  @####",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 364.5458221435547,
+        "result": "lluurRlluurRDrDLuullddRRllddrrURUrrdLulLuullddRR"
+    },
+    "251": {
+        "layout": [
+            "  ####",
+            " ##@ #",
+            "## * #",
+            "#  $ #",
+            "#  . #",
+            "######"
+        ],
+        "method": "astar",
+        "time": 23.38409423828125,
+        "result": "rddLruulDlDurrddlUlldR"
+    },
+    "252": {
+        "layout": [
+            " #####",
+            "##.. #",
+            "# $. #",
+            "# $. #",
+            "# $$ #",
+            "# @###",
+            "####"
+        ],
+        "method": "astar",
+        "time": 217.03028678894043,
+        "result": "luuRUdlddrUluurrrddLUUlldRlddrUUluR"
+    },
+    "253": {
+        "layout": [
+            " #####",
+            " #   ##",
+            " #$$@ #",
+            "## ## ##",
+            "#  #.  #",
+            "#      #",
+            "####. ##",
+            "   ####"
+        ],
+        "method": "astar",
+        "time": 148.41294288635254,
+        "result": "ullDDDldRRRdrUUdllluuuurrdLulDDDldRRRurrdLulDlluuurrrDullldddrrrruL"
+    },
+    "256": {
+        "layout": [
+            "   ####",
+            " ###  #",
+            " #.   #",
+            " #  * #",
+            "### ###",
+            "#   @ #",
+            "#   $ #",
+            "#  ####",
+            "####"
+        ],
+        "method": "astar",
+        "time": 145.58815956115723,
+        "result": "rdLLuuuurrdLulDDDllddrUluRdRUUUluRdddrrdLLullddrUluRdrUUUrruulDL"
+    },
+    "263": {
+        "layout": [
+            "#######",
+            "#. # .#",
+            "# $+$ #",
+            "# $$$ #",
+            "#.   .#",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 106.89401626586914,
+        "result": "RDrUllLDRdRUruLddlLulU"
+    },
+    "265": {
+        "layout": [
+            "    ####",
+            "#####  ###",
+            "# $ $ $$ #",
+            "# # #..# #",
+            "# @  ..  #",
+            "##########"
+        ],
+        "method": "astar",
+        "time": 1044.4860458374023,
+        "result": "rrruuurDlddrrruuLLDldRuuulDrddllluuRRurDrrddLLrruullDulllddlluuRRRRurD"
+    },
+    "352": {
+        "layout": [
+            "     ####",
+            " #####  #",
+            " #  $   #",
+            " #.#@$  #",
+            "##. $ ###",
+            "# .  ##",
+            "#   ##",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 2315.3274059295654,
+        "result": "RurrdLLdLdlluuurRRddlLrruullldDuurrDrrruulDrdLLdLLddlluRUrrruulDrdLLrdL"
+    },
+    "353": {
+        "layout": [
+            "########",
+            "#  ..  ##",
+            "# $$@$$ #",
+            "##  ..  #",
+            " ########"
+        ],
+        "method": "astar",
+        "time": 473.6332893371582,
+        "result": "ulDurrrDLdlUlulldRdRUrrrrdL"
+    },
+    "356": {
+        "layout": [
+            "  ######",
+            "###.   #",
+            "# .@.$ #",
+            "# #.$###",
+            "# #$ #",
+            "# $ ##",
+            "#   #",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 229.19654846191406,
+        "result": "llddddrruUUUrurrdLLLddddlluRdrUUrU"
+    },
+    "359": {
+        "layout": [
+            "##########",
+            "#  #  ...#",
+            "# $$$#@  #",
+            "#    ## ##",
+            "###     #",
+            "  ####  #",
+            "     ####"
+        ],
+        "method": "astar",
+        "time": 1855.9339046478271,
+        "result": "ullDDllluurDRddRRRdrUUUlullDurrdrruLLdrddlllluurDullldRRdRRRdrUUUluRdddlllluuruRldDldRRRdrUUU"
+    },
+    "361": {
+        "layout": [
+            "#######",
+            "#...  #",
+            "# $@$ ##",
+            "## ##  #",
+            " #  $  #",
+            " #  #  #",
+            " #######"
+        ],
+        "method": "astar",
+        "time": 1317.171573638916,
+        "result": "RullldRurrrDDrddlULLdlUUURurrdDrdLuuulldRurDlllluRRdrrDrddlULLdlUUUruLdrrrDrdLLLdlUUUrrruL"
+    },
+    "362": {
+        "layout": [
+            " #######",
+            "##  #  ###",
+            "#   $$@$ #",
+            "#  # ... #",
+            "#  #  #  #",
+            "##########"
+        ],
+        "method": "astar",
+        "time": 897.658109664917,
+        "result": "ulDrdrruLdlLuurDlLLulDlddrUluRRRRdRldlUruurDrrddlUruLLulDLddrURuulDlLulDlddrUluRRRRurD"
+    },
+    "451": {
+        "layout": [
+            "######",
+            "#    #",
+            "# #$ #",
+            "# .$.#",
+            "#  @ #",
+            "######"
+        ],
+        "method": "astar",
+        "time": 53.04837226867676,
+        "result": "luRlluurrDulldddrrrULuurD"
+    },
+    "452": {
+        "layout": [
+            " #####",
+            " # . ##",
+            " # .  #",
+            " # .  #",
+            "## # ##",
+            "# $$$#",
+            "#  @ #",
+            "######"
+        ],
+        "method": "astar",
+        "time": 1560.03999710083,
+        "result": "rUUUruLulDrddddllURdrUUUruLullddDuRUrrdLdddllluRRdrUUUruL"
+    },
+    "453": {
+        "layout": [
+            " #######",
+            " #     #",
+            " #.  $ #",
+            "##.##$###",
+            "# .  $  #",
+            "#   #@  #",
+            "#########"
+        ],
+        "method": "astar",
+        "time": 1255.4376125335693,
+        "result": "ruLLLdlluRuuurrrrdLLulldddRRRUdllluuurrdLulDurrrrdLLLrrdddrruLLLL"
+    },
+    "454": {
+        "layout": [
+            " ####",
+            "##  #",
+            "# .$##",
+            "#@.$ ##",
+            "# .$  #",
+            "### # #",
+            "  #   #",
+            "  #####"
+        ],
+        "method": "astar",
+        "time": 131.99877738952637,
+        "result": "drRddrruuLuLDlluururDDullddrUrrdLrrddllUUruL"
+    },
+    "456": {
+        "layout": [
+            "########",
+            "#   # .#",
+            "# $@$ .#",
+            "##$###.##",
+            "#  #    #",
+            "#       #",
+            "#  ######",
+            "####"
+        ],
+        "method": "astar",
+        "time": 2163.8576984405518,
+        "result": "RRurDDulllulldRRRRlllDDlddrUUUddrrrrruLuUlllulldRRRRllldddrruRdrU"
+    },
+    "458": {
+        "layout": [
+            " #######",
+            " #     #",
+            " # ### #",
+            " #. $  #",
+            "##.#$###",
+            "# . $  #",
+            "#   @# #",
+            "### ## #",
+            "  #    #",
+            "  ######"
+        ],
+        "method": "astar",
+        "time": 874.1974830627441,
+        "result": "luluuuurrrrddlLLrrruulllldDDDrRUdlluurRdddlddrrruuuLLuullddldRuuuuurrrrddLLLrddLDlUrrrrdddlllUUruL"
+    },
+    "459": {
+        "layout": [
+            " #########",
+            " #       #",
+            "##$# ### #",
+            "#  # *@# #",
+            "#    *## #",
+            "#  # .   #",
+            "####  ####",
+            "   ####"
+        ],
+        "method": "astar",
+        "time": 1146.148443222046,
+        "result": "LDlddrUrrruuuulllldDrDLuuullDDlddrUUdRRdRUluuullDDldRRRuuurrrrddddlL"
+    },
+    "471": {
+        "layout": [
+            "##########",
+            "#   ##   #",
+            "#  ..    #",
+            "## ### ###",
+            " # #     #",
+            " # # @ $ #",
+            "## ####$##",
+            "#       #",
+            "#   #####",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 1555.607795715332,
+        "result": "urrrdLLuuulllldddddrrrrrUUruLdlUUddrddllllluuuuurrrRurrdLLddlldRRuuuLLLulldRdddddrrrrruUruLLuullLulDDDDDuuuurrrrdddlluRdrUUddrddlllldlluRuuuuurrrRdddrddlllLdlUUUUUddddrrrrruuuluulllulldRdddddrrrrruuuluuurrdLLL"
+    },
+    "490": {
+        "layout": [
+            "########",
+            "#   @  #",
+            "# $.$. #",
+            "## ## ##",
+            " #  #  #",
+            " ## ##$##",
+            " # . .$ #",
+            " #      #",
+            " ########"
+        ],
+        "method": "astar",
+        "time": 1322.068214416504,
+        "result": "ldRullldRddrdddrrrruLLdlluuuluuurrdLurrrdLddrDuluuulldRullldRddrdddrruLdrrruL"
+    },
+    "530": {
+        "layout": [
+            "######",
+            "#    #",
+            "#. $ #",
+            "#.#$##",
+            "#    #",
+            "#  @ #",
+            "######"
+        ],
+        "method": "astar",
+        "time": 49.69596862792969,
+        "result": "ulluuurrrdLDuullddddrrruLLdlUrruuL"
+    },
+    "531": {
+        "layout": [
+            "    #######",
+            "#####.    #",
+            "#    $ $  #",
+            "#@  #. ####",
+            "########"
+        ],
+        "method": "astar",
+        "time": 55.74655532836914,
+        "result": "urrrRdrURurrdLLLLLLdlluRRRRuRRdLulDrrrruLLL"
+    },
+    "533": {
+        "layout": [
+            "#####",
+            "#@ .####",
+            "#. .   #",
+            "#$$ $  #",
+            "#  #####",
+            "#  #",
+            "####"
+        ],
+        "method": "astar",
+        "time": 785.8469486236572,
+        "result": "drrdRulllDRddlUUrurrdLulDlddrUUrurrrdLLulullDRddlUruRRdLulDlddrUUruullDRddlUrrUdrrruLL"
+    },
+    "534": {
+        "layout": [
+            "########",
+            "#      #",
+            "# #... #",
+            "#   # ##",
+            "##$$$ #",
+            " #  @ #",
+            " ######"
+        ],
+        "method": "astar",
+        "time": 1413.0804538726807,
+        "result": "lURdrUUdllUlluurrDDuurrrdLdddlllURuuullddRdrUdRdrUU"
+    },
+    "535": {
+        "layout": [
+            "  ######",
+            "###    #",
+            "#  $$$ #",
+            "# ## # #",
+            "#  ... #",
+            "### @ ##",
+            "  #####"
+        ],
+        "method": "astar",
+        "time": 1510.2381706237793,
+        "result": "urruuullDDuurrdddldllulluurRurrrdddlLLrrruuullDDuurrdddldlluRuuurrdLulDDulllddR"
+    },
+    "536": {
+        "layout": [
+            " ######",
+            " #    #",
+            "##. $ #",
+            "# .#$###",
+            "# . $  #",
+            "##  @  #",
+            " #######"
+        ],
+        "method": "astar",
+        "time": 1166.3551330566406,
+        "result": "luRlluuurrrdLLulDDldRdrruUddlluuuurrrdLLrddLdlUdrrrruLLL"
+    },
+    "548": {
+        "layout": [
+            "   ####",
+            "####  #",
+            "#  $  ##",
+            "# #$#  #",
+            "#. $   #",
+            "#.###  #",
+            "#. @  ##",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 1721.703290939331,
+        "result": "lluurRRlllddrrrruruululLDurrdrddlUlLuurrDrdLddlllluuuuRRddLruulldDDuuurrRurDDrddlULLLruulldDuurrrrDrdLLLL"
+    },
+    "561": {
+        "layout": [
+            "#######",
+            "#     #",
+            "# # # #",
+            "# $.# #",
+            "##$ . #",
+            " #@* ##",
+            " ##  #",
+            "  ####"
+        ],
+        "method": "astar",
+        "time": 276.20840072631836,
+        "result": "RuuuullddRluurrrrdddlldlUrrruuulldDuullddRdRUlluurrrrdddLruuullllddrddrdrUlluurDulluurrD"
+    },
+    "575": {
+        "layout": [
+            "  #####",
+            "###   #",
+            "# @$# ##",
+            "# *$.  #",
+            "#  #   #",
+            "##.# ###",
+            " #   #",
+            " #####"
+        ],
+        "method": "astar",
+        "time": 1304.18062210083,
+        "result": "DDuRRdrruLLLrruullDllddrURRdddllUUluRRuurrdDrdLuuullddRluurrdDlllluRdrrruullDurrddlLullddrddrruUddlluuluurrurrddrdLuuullddRDrUllullddrddrrUUddlluuluurDDurRdrruLLLuurrDullddrdrruL"
+    },
+    "593": {
+        "layout": [
+            " #####",
+            " #.@ ###",
+            "##*#$$ #",
+            "#      #",
+            "#   #  #",
+            "##.## ##",
+            " #    #",
+            " ######"
+        ],
+        "method": "astar",
+        "time": 1223.595142364502,
+        "result": "lDDrrrdddllluUluRRRlluurrDulldddddrrruuruuLDDuLLdlluRRRlluurrDrrddlULLdlddrrrUUruLLuulldDDuuurrddrruLdlLdlluRRRlluurrDrrddlddlllUUUdddrrruuruulDLLdlluRdddrrruUruullullDDDuuurrddLdlUUdrrurrdLLLdlU"
+    },
+    "630": {
+        "layout": [
+            " #######",
+            " #  .  #",
+            " # #.  #",
+            "##$## ##",
+            "# $   #",
+            "#   @ #",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 186.31339073181152,
+        "result": "llluRRdrruuuullldDuurrdrdddlluRdrUUddlllluRRluuurrrrdLdddlluRdrUUUruL"
+    },
+    "631": {
+        "layout": [
+            " #####",
+            " #   #",
+            "##   #",
+            "# $$##",
+            "# # ###",
+            "# ..  #",
+            "### @ #",
+            "  #####"
+        ],
+        "method": "astar",
+        "time": 40.85040092468262,
+        "result": "uluUddlluuRuurrdLDDullddrRuuuulDrdddlluuRlddrrdrruLLuUluurDDD"
+    },
+    "632": {
+        "layout": [
+            " #####",
+            " #  @#",
+            "## #$##",
+            "#   $ #",
+            "#  . .#",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 24.458885192871094,
+        "result": "lldddrrruLdlluuurrDDLdRuuulldDldR"
+    },
+    "633": {
+        "layout": [
+            " ####",
+            " #  ####",
+            " #     #",
+            " #  #$.#",
+            "### # .#",
+            "#   $$.#",
+            "# @ #  #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 2565.0744438171387,
+        "result": "uruuurrrddlUruLLrddrddlULLdlluRRRRdrUUdllluuluurDrrdDrdLLLdlluRRRRdrUluuullDDuurrdddlLdlluRRRR"
+    },
+    "634": {
+        "layout": [
+            " ####",
+            " # @#####",
+            "##$$$   #",
+            "# ..# $ #",
+            "# ..#  ##",
+            "###    #",
+            "  ######"
+        ],
+        "method": "astar",
+        "time": 546.7491149902344,
+        "result": "lDDrddrruuurDlddlluulldRuuurDRRdrruLLLLulDDurrrdddrUUruLLLLulD"
+    },
+    "637": {
+        "layout": [
+            "##########",
+            "#   ##   #",
+            "# $ ...  #",
+            "##$### ###",
+            "# $     #",
+            "# @ #   #",
+            "#########"
+        ],
+        "method": "astar",
+        "time": 2231.452703475952,
+        "result": "luRRRRdrruLuulllulldRRRRRddLLLdlluRUdRRRdrruLuulllulldRRlddrrRdrruLuuurrdLLddLLLdlluRRRRdrUU"
+    },
+    "645": {
+        "layout": [
+            "######",
+            "# .$.###",
+            "# $@$  #",
+            "# #$ # #",
+            "# . .  #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 2100.067377090454,
+        "result": "RuLdrddllluuRRDrdLuuurDlddrrruuLLulDllddRRRUUlDrdLuurrrddL"
+    },
+    "647": {
+        "layout": [
+            "#####",
+            "#   ###",
+            "#.#   #",
+            "# $   #",
+            "#.$####",
+            "# $  #",
+            "#.@  #",
+            "######"
+        ],
+        "method": "astar",
+        "time": 652.4255275726318,
+        "result": "ruLdlUUURDDldRuuuRuullDDDurrurrdLLLdlUdrddlUrrrdLL"
+    },
+    "648": {
+        "layout": [
+            " ####",
+            " #  ##",
+            "##$  #",
+            "# $$ ##",
+            "# #.  #",
+            "# @.. #",
+            "#######"
+        ],
+        "method": "astar",
+        "time": 155.55143356323242,
+        "result": "ruruulDrddllluuRRDullddrRuuuulDrdddlluuRlddrrurrdLulUluurDDurDD"
+    },
+    "649": {
+        "layout": [
+            "    ####",
+            "    # .#",
+            "   ##  #",
+            "####  .#",
+            "# @$$$ #",
+            "#  $. .#",
+            "########"
+        ],
+        "method": "astar",
+        "time": 276.9756317138672,
+        "result": "dRRRUUlDLdlluRRRurruulDrddLdLLuRuRlddrUrUUddlluRdlllldRR"
+    },
+    "650": {
+        "layout": [
+            "   ####",
+            "   #  #",
+            "####$.##",
+            "#      #",
+            "# @$$. #",
+            "#### . #",
+            "   #####"
+        ],
+        "method": "astar",
+        "time": 585.1473808288574,
+        "result": "urrrddlULulldRRRdrruulDuLruulDDLdlluRRdRUruulDrdrdLLLuRdrUlllldRRR"
+    },
+    "653": {
+        "layout": [
+            " ########",
+            " #      #",
+            " #$## # #",
+            " #. # $ #",
+            "##..# ###",
+            "#     $ #",
+            "# @ #   #",
+            "#########"
+        ],
+        "method": "astar",
+        "time": 1291.6343212127686,
+        "result": "urrrdrruLLLLrruuuurrddLruulldDDuuulllDDrdddlluRUddrUrRdrruLLLLdlU"
+    },
+    "654": {
+        "layout": [
+            "   ####",
+            "####@ #",
+            "#  $$$##",
+            "# ##   #",
+            "# #  # #",
+            "#  ... #",
+            "####   #",
+            "   #####"
+        ],
+        "method": "astar",
+        "time": 1120.323657989502,
+        "result": "rDulDLrDDldRdrruuuLrdddllullluuuRRRDrrddLLLrrruulluurDldDldRdrruuuLulDDuullldddR"
+    },
+    "655": {
+        "layout": [
+            "   ####",
+            "####@ #",
+            "#  $$$##",
+            "# ##   #",
+            "# ## # #",
+            "#  ... #",
+            "#   ####",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 1155.991792678833,
+        "result": "DDDurrddlLuuuurDldddrruuLulDrrddllLdlluuuurRllddddrrurrruullDuruulDlllddddrruRldlluRluuurrrDD"
+    },
+    "657": {
+        "layout": [
+            "  ####",
+            "###  ###",
+            "#    $ #",
+            "#    $@#",
+            "## ##$##",
+            "# ..  #",
+            "#  .###",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 2069.4591999053955,
+        "result": "LruLLLdlluRdddrrrUULLruulDlDDuurrdrddlldlluRuuurrdLrrruLLulDlDDDldRuuuurrdLulDD"
+    },
+    "664": {
+        "layout": [
+            "######",
+            "#    #",
+            "#  . ##",
+            "## .. ##",
+            " # ##  #",
+            " #$$ $ #",
+            " # @ ###",
+            " #####"
+        ],
+        "method": "astar",
+        "time": 1428.2770156860352,
+        "result": "lUUUruulldRddddrruLdlUUUrrrdrdLLruuluulDulldRRlddddrruLdlUUURuulldRdddrrruuLrddllluuuurrD"
+    },
+    "677": {
+        "layout": [
+            "########",
+            "#  #   #",
+            "#    $ #",
+            "# $# $##",
+            "## ##  #",
+            "# ...* #",
+            "#   #@ #",
+            "########"
+        ],
+        "method": "astar",
+        "time": 2235.5175018310547,
+        "result": "ruLLLdlluRuUluurDDurrurrdLDDrddlUlLdlluRUUluurDDDuurRdrDrdLuuluurDDD"
+    },
+    "693": {
+        "layout": [
+            "####",
+            "# @#####",
+            "# $  $ #",
+            "#$$# # #",
+            "#. . . #",
+            "#  . ###",
+            "######"
+        ],
+        "method": "astar",
+        "time": 2287.1105670928955,
+        "result": "ldRDDldRuuulDrdrruuLrddlluluurDrrddlldlUUdrrrdLuruullDldRRdrUllldRuuuulDDrdrrrruuLLLrrrddlllluluurDrrrrddlllldlUUdrrrrruullDullDlddrUrRuullDldRuuulDD"
+    },
+    "716": {
+        "layout": [
+            "   ####",
+            "   #  ####",
+            "#### *   #",
+            "#  $ * @ #",
+            "# #  .####",
+            "#   ###",
+            "#####"
+        ],
+        "method": "astar",
+        "time": 653.6672115325928,
+        "result": "ulLulDDRRllLddlluuRRRurrdLdLUlllddrrUruLrruulDrddlluRdrUrurrdLLLdlluRuRDrruLdlldldlluuRRR"
+    }
+}

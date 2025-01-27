@@ -1,6 +1,6 @@
-# Chall - Your Challenge Title
+# Chall - Sokoban
 
-> A brief description of the challenge
+> A programming challenge where participants must solve Sokoban puzzle in a short time, programmatically.
 
 ## Type
 
@@ -9,30 +9,15 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Hugo Kermabon-Bobinnec
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
-
-**IMPORTANT:** This description will **NOT** be shared with participants.
+Just programming lol.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
 - `auto`
-- `misc`
 
 ---
 
