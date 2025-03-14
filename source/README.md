@@ -1,4 +1,8 @@
-# Running Your Challenge
+# Running This Challenge
+
+- run `docker compose up`
+
+or
 
 - `docker build -t <your tag> .`
 - `docker run -p 2025:2025`
