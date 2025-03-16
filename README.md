@@ -1,62 +1,82 @@
-# Chall - Sokoban
+# @HACK 2025: Sokobaaaan
 
-> A programming challenge where participants must solve Sokoban puzzle in a short time, programmatically.
+> Authored by [Hugo](https://github.com/hkerma).
 
-## Type
+- **Category**: `Miscellaneous`
+- **Value**: `150 points`
+- **Tags**: `beginner` `tcp`
 
-- [ ] **OFF**line
-- [X] **ON**line
+> Roger is supposed to work on his quantum chromodynamics assignment for tomorrow... but instead he decided to solve Sokoban games.
+> What a waste of time, right? I hope his supervisor never finds out.
+> 
+> 
+> NOTE:
+> - `@` player
+> - `$` box
+> - `.` goal
+> - `#` wall
+> - `*` box on goal
+> - `+` player on goal
+> 
+> For each puzzle, the answer is expected as a sequence of move, such as `urRlddDlLuuuL` for instance.
+> u, d, l, r = up, down, left, right
+> UPPERCASE = push a box, lowercase = move
+> 
+> Solutions are not unique.
+> 
 
-## Designer(s)
+## Access a dockerized instance
 
-- Hugo Kermabon-Bobinnec
+Run challenge container using docker compose
+```
+docker compose up -d
+```
+Connect to the TCP socket (e.g., using nc command)
+```
+nc localhost 52019 
+```
+<details>
+<summary>
+How to stop/restart challenge?
+</summary>
 
-## Description
+To stop the challenge run
+```
+docker compose stop
+```
+To restart the challenge run
+```
+docker compose restart
+```
 
-Just programming lol.
+</details>
 
-## Category(ies)
 
-- `auto`
+## Reveal Flag
+
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
+
+Did you **REALLY** try solving this challenge?
+
+<details>
+<summary>
+Yes, I promise!
+</summary>
+
+Flag: `ATHACKCTF{G0dIHateTh3s3StuFF}`
+
+</details>
+</details>
+
 
 ---
 
-# Project Structure
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
 
-## 1. HACKME.md
-
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Comprehensive instructions on how to have a running instance of your
-  challenge from the source.
-  If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts [OPTIONAL]
-
-> **NOTE:** This directory is optional for online challenges. However, if offline artifacts need to be provided as well, 
-> they should be placed here.
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files intended to be downloaded by participants
-  (e.g., a flagless version of the running binary executable of a pwn challenge).
-  For large files (exceeding 100 MB), please consult us (Anis and Hugo).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.).
-
-## 5. Dockerization
-
-> **NOTE:** For deployment on @Hack's infrastructure, online challenges must be containerized.
-> However, this requirement does not apply during the early stages of challenge development, so do not hesitate to start
-> building your online challenge if you are unfamiliar with containerization.
-> We (Anis and Hugo) will take care of it.
-
-- **[source/Dockerfile](source/Dockerfile)**: Needed for building a containerized image of the online challenge.
-- **[source/docker-compose.yml](source/docker-compose.yml)**: Needed for a configuration-free run of the online
-  challenge
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
