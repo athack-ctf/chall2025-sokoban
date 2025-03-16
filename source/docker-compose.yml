@@ -1,8 +1,7 @@
-version: '3.8'
-
 services:
   sokoban:
     build: .
     image: athack-ctf/chall2025-sokoban:latest
     ports:
-      - "2025:2025"
+    - 52019:2025
+version: '3.8'
