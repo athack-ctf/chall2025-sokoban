@@ -2,6 +2,6 @@ version: '3.8'
 services:
   sokoban:
     image: athack-ctf/chall2025-sokoban:latest
-    build: .
+    build: ./source
     ports:
     - 52019:2025
